@@ -23,13 +23,14 @@
   ```
 
 2. Open the project in Xcode:
+
     ```swift
     
-   open NeoTestSwiftUI.xcodeproj
+    open NeoTestSwiftUI.xcodeproj
    
-   or
+    or
    
-   open NeoTestSwitUIkit.xcodeproj
+    open NeoTestSwitUIkit.xcodeproj
    
    ```
 
