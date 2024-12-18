@@ -20,9 +20,7 @@
 
 2. Open the project in Xcode:
 ```swift
-    
     open NeoTestSwiftUI.xcodeproj
-   
 ```
 
 
