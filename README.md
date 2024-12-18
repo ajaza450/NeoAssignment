@@ -14,7 +14,7 @@
 1. Clone the repository:
 ```swift
    git clone https://github.com/ajaza450/NeoAssignment.git
-   cd NYTimesApp
+   cd NeoAssignment
    
 ```
 
