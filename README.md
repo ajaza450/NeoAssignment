@@ -12,19 +12,18 @@
 
 ### Setup
 1. Clone the repository:
-   ```swift
+```swift
    git clone https://github.com/ajaza450/NeoAssignment.git
    cd NYTimesApp
    
-  ```
+```
 
 2. Open the project in Xcode:
-   ```swift
+```swift
     
     open NeoTestSwiftUI.xcodeproj
    
-   
-   ```
+```
 
 
 
